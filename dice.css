@@ -1,0 +1,26 @@
+#topic {
+    font-family: 'Lucida Handwriting', cursive;
+	font-size: 6rem;
+	color: #639a67;
+}	
+body {
+	background-color: #30475e;
+}	
+.container1 {
+	padding:1%;
+}	
+#aa, #ab {
+	padding: 0% 13%;
+	font-family: 'Lucida Handwriting', Times;
+	font-size: 2rem;
+	color: #639a67;
+}	
+img {
+	padding: 2% 5%
+}
+.bttn {
+	padding-left: 50%;
+}	
+.winner {
+	border-radius: 50%;
+}	
